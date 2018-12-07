@@ -4,7 +4,7 @@ Update firebase credentials in /src/firebase.example.js then rename to just fire
 
 ## Live demo:
 
-[React Redux Firebase CRUD app with Auth and Comments](https://kaloraat.github.io/udemy-react-newsapp/)
+[React Redux Firebase CRUD app with Auth and Comments](https://react-diaryapp.firebaseapp.com)
 
 ## App Screenshots
 
