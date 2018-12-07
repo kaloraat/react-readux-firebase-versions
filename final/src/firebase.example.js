@@ -1,12 +1,12 @@
 import * as firebase from "firebase";
-// Initialize Firebase
+// Use your credentials below
 var config = {
-    apiKey: "AIzaSyCSSq7B8m-l3oN_5w1Ax8Ur7HwypsZ2jig",
-    authDomain: "react-diaryapp.firebaseapp.com",
-    databaseURL: "https://react-diaryapp.firebaseio.com",
-    projectId: "react-diaryapp",
-    storageBucket: "react-diaryapp.appspot.com",
-    messagingSenderId: "1020272813390"
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxx.firebaseapp.com",
+    databaseURL: "https://xxxxxxxxxxx.firebaseio.com",
+    projectId: "xxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxx.firebaseio.com",
+    messagingSenderId: "xxxxxxxxxxx"
 };
 firebase.initializeApp(config);
 
