@@ -1,0 +1,34 @@
+* {
+    border-radius: 0px !important;
+}
+
+.jumbotron {
+    border-radius: 0px !important;
+    background-color: #092b40;
+    color: #fff;
+    font-family: 'Bowlby One', cursive;
+}
+
+.no-border {
+    box-shadow: none;
+    outline: none;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.no-border:focus {
+    border-bottom: 1.5px solid #007bff;
+}
+
+@media only screen and (max-width: 768px) {
+    img {
+        max-height: 100px;
+    }
+    .username {
+        text-align: left;
+    }
+}
