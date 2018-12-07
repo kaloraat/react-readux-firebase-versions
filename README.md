@@ -1,7 +1,6 @@
 ## React Redux Firebase CRUD app with Authentication and Commenting System
 
-<hr />
-Update config credentials in /src/firebase.js then run yarn install and yarn start to start this application.
+Update firebase credentials in /src/firebase.example.js then rename to just firebase.js
 
 ## Live demo:
 
